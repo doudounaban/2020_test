@@ -17,3 +17,5 @@
 ![NKUST](nksut.png "高科大")
 
 [![DOCKER](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "DOCKER")
+
+[![DJ](https://img.youtube.com/vi/KrFCTcms27k/0.jpg)](https://www.youtube.com/watch?v=KrFCTcms27k "DJ")
